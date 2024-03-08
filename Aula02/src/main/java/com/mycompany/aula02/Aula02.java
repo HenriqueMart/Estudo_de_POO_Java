@@ -12,7 +12,7 @@ public class Aula02 {
 
     public static void main(String[] args) {
         /*Atributos*/
-        /*Objeto*/
+        /*1 Objeto*/
         Caneta c1 = new Caneta();
         c1.cor = "Azul";
         c1.ponta = 0.5f;
@@ -22,7 +22,7 @@ public class Aula02 {
         c1.status();
         
         System.out.println("");
-        /*Objeto*/
+        /*2 Objeto*/
         Caneta c2 = new Caneta();
         c2.modelo = "Big";
         c2.cor = "Vermelha";
